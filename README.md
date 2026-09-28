@@ -1,1 +1,1 @@
-# northstar-inventory-simulation
+# Web-Foundations
